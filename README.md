@@ -69,9 +69,9 @@ This visualization makes it clear which documents the LSH strategy grouped toget
 
 ## 🧪 Results
 
-Using 5 unique documents + 300 duplicates:
+Using 4 unique documents + 200 duplicates of the same unique documents:
 
-- Formed 5 clear clusters
+- Formed 4 clear clusters
 - Cluster membership was highly accurate
 - Visualization confirmed distinct, dense groupings
 
