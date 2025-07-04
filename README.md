@@ -110,7 +110,7 @@ Inspired by Hugging Face's [FineWeb paper](https://huggingface.co/papers/2404.07
 
 ## 📫 Let’s Connect
 
-If you're working on dataset pipelines, LLM deduplication, or retrieval-augmented systems, feel free to [reach out](https://www.linkedin.com/) or open a GitHub issue/discussion!
+If you're working on dataset pipelines, LLM deduplication, or retrieval-augmented systems, feel free to [reach out](https://www.linkedin.com/in/harsh-n-096b67133/) or open a GitHub issue/discussion!
 
 ---
 
