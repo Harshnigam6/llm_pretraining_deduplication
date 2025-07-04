@@ -62,7 +62,7 @@ We use an inverted index to build a graph of documents connected through shared 
 - We use BFS to extract **connected components** — each component is a **cluster** of near-duplicate documents
 
 
-![Clustering Output](./assets/clustering_graph.png)
+![Clustering Output](./assets/deduplication_clusters.png)
 This visualization makes it clear which documents the LSH strategy grouped together.
 
 ---
